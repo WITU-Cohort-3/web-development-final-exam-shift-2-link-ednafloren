@@ -18,12 +18,15 @@ p{
     text-align: center;
     padding: 20px;
 }
+h1{
+    text-align: center;
+}
 
 
 
 
 .container{
-    background-color: rgb(57, 122, 160);
+    background-color: rgb(57, 160, 158);
     margin-top: 0px;
     padding-bottom: 10px;
     width: 60%;
