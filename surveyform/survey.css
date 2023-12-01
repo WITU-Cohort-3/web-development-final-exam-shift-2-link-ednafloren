@@ -6,13 +6,17 @@
 .myform1{
   
   
-    margin-left: 10px;
+    margin-left: 100px;
     padding-top: 10px;
    
     width: 500px;
 }
 body{
     color:black;
+}
+p{
+    text-align: center;
+    padding: 20px;
 }
 
 
