@@ -9,7 +9,7 @@
     margin-left: 10px;
     padding-top: 10px;
    
-    width: 0px;
+    width: 500px;
 }
 body{
     color:black;
@@ -28,7 +28,7 @@ body{
   
 
 }
-.main{
+/* .main{
     width: 60%;
 margin-bottom: auto;
 
@@ -70,4 +70,4 @@ margin-right:auto;
 }
 .name{
  
-}
+} */
