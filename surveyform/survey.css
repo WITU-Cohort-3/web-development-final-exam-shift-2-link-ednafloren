@@ -1,15 +1,14 @@
 .upper{
     background-color: rgb(240, 242, 246);
-    color: white;
+    color: black;
     margin: 30px;
 }
 .myform1{
-    display: grid;
-    grid-template-columns: repeat(4,1fr);
-    column-gap: 0px;
-    margin-left: 50px;
+  
+  
+    margin-left: 10px;
     padding-top: 10px;
-    background-color: brown;
+   
     width: 0px;
 }
 body{
