@@ -1,0 +1,115 @@
+.container{
+    background-color: rgb(230, 233, 255);
+}
+.humber {
+  width: 30px;
+  height: 6px;
+  background-color: black;
+  margin-top: 6px;
+
+
+}
+.humb{
+    border: 2px solid rgb(241, 239, 239);
+    width: 50px;
+    background-color: aliceblue;
+
+    margin-left:1080px;
+
+}
+.al{
+   margin-left: 8px;
+   margin-bottom: 6px;
+}
+.nav{
+    height:150px;
+    background-color: white;
+}
+.logo img{
+    width:50px;
+}
+.logo{
+    margin: 10px 1px 15px 20px;
+}
+.namelogo{
+    display:flex;
+}
+span{
+    color:blue;
+    font-weight: 600;
+}
+.title h1{
+    font-size: 50px;
+}
+.title p{
+    font-size: 12px;
+}
+.nav{
+    display: flex;
+}
+.all{
+    margin-top: 30px;
+    margin-left: 500px;
+}
+.signup{
+    margin-left: 28px;
+
+}
+.search button,.login button,.lightblue {
+    border: none;
+    height: 25px;
+    color:white;
+    background-color: rgb(84, 84, 189);
+}
+.cont {
+    background-image: url("event.avif");
+background-size: cover;
+    position: relative;
+    /* top: 200px; */
+    margin: auto;
+    text-align: center;
+    border: 2px solid blue;
+    width: 100%;
+    height: 300px;
+
+    }
+    /* .cont .img1 { 
+       
+        
+    } */
+ .h22 h2{
+    position: absolute;
+
+  color: white;
+    top: 40% ;
+     right:20%;
+    left: 20%;  
+}
+.fexing{
+    position: absolute;
+
+  
+    top: 70% ;
+     right:20%;
+    left: 20%;   
+}
+.fexing button {
+    color:white;
+    background-color: rgb(1, 1, 11);
+}
+.last{
+  display:flex;
+
+}
+.lightblue{
+    /* margin-left: 50px; */
+    background-color: rgb(84, 84, 189);
+    color:white
+}
+.venuesearch{
+      margin-left: 150px;  
+      margin-top: 20px;
+      margin-bottom: 10px;
+}
+
+
